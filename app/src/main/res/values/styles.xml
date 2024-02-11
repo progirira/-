@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonPopular">
+        ..
+        <item name="android:background">@drawable/button_popular</item>
+        ..
+    </style>
+    RoundedCornerButton.ButtonFavorite
+    <style name="ButtonFavorite">
+        ..
+        <item name="android:background">@drawable/button_favorite</item>
+        ..
+    </style>
+
+</resources>

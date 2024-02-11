@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Film_app</string>
+    <string name="button_popular">Популярные</string>
+    <string name="button_favorite">Избранное</string>
+    <string name="textPopular">Популярные</string>
+    <string name="textFavorite">Избранное</string>
+</resources>
